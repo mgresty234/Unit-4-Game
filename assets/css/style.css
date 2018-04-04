@@ -16,10 +16,16 @@ body {
 
 }
 
-.fightSection {
+.fightingSection {
     margin: 10px 0 0 10px;
     width: 200px;
     height: 150px;
+}
+
+#fightHeading {
+    margin: 10px 0 0 10px;
+    width: 100%;
+    height: 50px;
 }
 
 .defenderSection {
@@ -34,9 +40,9 @@ body {
 .health {
     position: absolute;
     top: 1%;
-    left: 30px;
+    left: 27px;
     font-weight: bold;
-    
+
 
 }
 

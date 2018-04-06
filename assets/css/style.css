@@ -7,19 +7,24 @@ body {
     margin: 10px 0 0 10px;
     width: 200px;
     height: 150px;
+    
 
 }
 .enemySection {
     margin: 10px 0 0 10px;
-    width: 200px;
+    
     height: 150px;
 
 }
 
 .fightingSection {
     margin: 10px 0 0 10px;
-    width: 200px;
+    
     height: 150px;
+}
+
+#btnAttack {
+    width: 15%;
 }
 
 #fightHeading {
@@ -30,7 +35,7 @@ body {
 
 .defenderSection {
     margin: 10px 0 0 10px;
-    width: 200px;
+   
     height: 150px;
     color: white;
     font-weight: bold;
@@ -40,7 +45,7 @@ body {
 .health {
     position: absolute;
     top: 1%;
-    left: 27px;
+    left: 40px;
     font-weight: bold;
 
 
@@ -51,3 +56,18 @@ h3 {
     color: white;
     font-size: 1.2em;
 }
+/* Individual Characters Images */
+
+#charOne {
+    border: 3px solid black;
+}
+#charTwo {
+    border: 3px solid black;
+}
+#charThree {
+    border: 3px solid black;
+}
+#charFour {
+    border: 3px solid black;
+}
+

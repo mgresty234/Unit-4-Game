@@ -20,11 +20,13 @@ body {
 .fightingSection {
     margin: 10px 0 0 10px;
     
-    height: 150px;
+    height: 100px;
 }
 
 #btnAttack {
     width: 15%;
+    background-color: orangered;
+    border: 2px solid black;
 }
 
 #fightHeading {
@@ -35,8 +37,6 @@ body {
 
 .defenderSection {
     margin: 10px 0 0 10px;
-   
-    height: 150px;
     color: white;
     font-weight: bold;
     font-size: 1.2em;

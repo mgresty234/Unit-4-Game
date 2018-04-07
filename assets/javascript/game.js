@@ -27,10 +27,9 @@ var characters = [charOne, charTwo, charThree, charFour];
             }
         });
     });
-    $(".attackBtn").on("click", function() {   
-         
+    $(".attackBtn").on("click", function() {
 
-    }
+    });
 
 
 
